@@ -1,0 +1,88 @@
+module.exports=
+[
+    {
+        "locationName":"Banglore",
+        "geometry":{
+            "coordinates":[12.9716,77.5946]
+        },
+        "emotion":"happy"
+    },
+    {
+        "locationName":"Banglore",
+        "geometry":{
+            "coordinates":[12.9716,77.5946]
+        },
+        "emotion":"angry"
+    },
+    {
+        "locationName":"Banglore",
+        "geometry":{
+            "coordinates":[12.9716,77.5946]
+        },
+        "emotion":"neutral"
+    },
+    {
+        "locationName":"Banglore",
+        "geometry":{
+            "coordinates":[12.9716,77.5946]
+        },
+        "emotion":"happy"
+    },
+    {
+        "locationName":"Hyderabad",
+        "geometry":{
+            "coordinates":[17.3850,78.4867]
+        },
+        "emotion":"happy"
+    },
+    {
+        "locationName":"Hyderabad",
+        "geometry":{
+            "coordinates":[17.3850,78.4867]
+        },
+        "emotion":"angry"
+    },
+    {
+        "locationName":"Hyderabad",
+        "geometry":{
+            "coordinates":[17.3850,78.4867]
+        },
+        "emotion":"neutral"
+    },
+
+    {
+        "locationName":"New Delhi",
+        "geometry":{
+            "coordinates":[28.6139,77.2090]
+        },
+        "emotion":"happy"
+    },
+    {
+        "locationName":"New Delhi",
+        "geometry":{
+            "coordinates":[28.6139,77.2090]
+        },
+        "emotion":"happy"
+    },
+    {
+        "locationName":"New Delhi",
+        "geometry":{
+            "coordinates":[28.6139,77.2090]
+        },
+        "emotion":"angry"
+    },
+    {
+        "locationName":"New Delhi",
+        "geometry":{
+            "coordinates":[28.6139,77.2090]
+        },
+        "emotion":"neutral"
+    },
+    {
+        "locationName":"New Delhi",
+        "geometry":{
+            "coordinates":[17.3850,77.2090]
+        },
+        "emotion":"happy"
+    }
+]
