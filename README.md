@@ -6,8 +6,10 @@ This is the application for location based search.
 List of API:
 ---
 
-**/ : GET** Displays welcome message  
-**/api/create : POST** request accept new emotions as data  
+* Displays welcome message  
+**/ : GET** 
+* Accept new emotions  
+**/api/create : POST** 
 ```json
 {
 	"locationName":"Banglore",
@@ -16,7 +18,8 @@ List of API:
 	"emotion":"happy"
 }
 ```  
-**/api/emotion: GET**   Accepts lat & long values a query params  
+* Location based search  
+**/api/emotion: GET**  
 */api/emotion?lat=17.0&long=78.5*
 
 Install and Run Command:   
